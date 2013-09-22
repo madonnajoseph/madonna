@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'myriadpro_regular';
+    src: url('fonts/myriadpro_regular.eot');
+    src: url('fonts/myriadpro_regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/myriadpro_regular.woff') format('woff'),
+        url('fonts/myriadpro_regular.ttf') format('TrueType');
+    font-weight:normal;
+}
+@font-face {
+    font-family: 'national_bold';
+    src: url('fonts/NationalWeb-Bold.eot');
+    src: url('fonts/NationalWeb-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/NationalWeb-Bold.woff') format('woff'),
+        url('fonts/NationalWeb-Bold.ttf') format('TrueType');
+        
+    font-weight: 800; 
+    font-style: normal;
+ 
+}
+@font-face {
+    font-family: 'national_regular';
+    src: url('fonts/NationalWeb-Regular.eot');
+    src: url('fonts/NationalWeb-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/NationalWeb-Regular.woff') format('woff'),
+        url('fonts/NationalWeb-Regular.ttf') format('TrueType');
+        
+    font-weight: 500; 
+    font-style: normal;
+  
+}
